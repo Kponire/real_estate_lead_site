@@ -218,7 +218,7 @@ const LuxuryRealEstate: React.FC = () => {
       {/* SECTION 3: THE CAPTURE ENGINE */}
       <section
         id="capture"
-        className="min-h-screen pt-25 px-6 bg-white text-slate-900 rounded-t-[60px]"
+        className=" pt-25 px-6 bg-white text-slate-900 rounded-t-[60px]"
       >
         <div className="max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-20 items-center">
           <div>
@@ -441,7 +441,7 @@ const LuxuryRealEstate: React.FC = () => {
         </div>
       </section>
       {/* 5. TESTIMONIALS */}
-      <section className="bg-white pb-25 px-6 overflow-hidden text-gray-900">
+      <section className="bg-white py-25 px-6 overflow-hidden text-gray-900">
         <div className="max-w-7xl mx-auto">
           <div className="flex items-center gap-4 mb-16">
             <BsChatRightQuote className="text-4xl text-slate-200" />
